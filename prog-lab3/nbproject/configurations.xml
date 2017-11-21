@@ -4,8 +4,6 @@
     <logicalFolder name="HeaderFiles"
                    displayName="Header Files"
                    projectFiles="true">
-      <itemPath>check.h</itemPath>
-      <itemPath>long_num.h</itemPath>
     </logicalFolder>
     <logicalFolder name="ResourceFiles"
                    displayName="Resource Files"
@@ -14,8 +12,6 @@
     <logicalFolder name="SourceFiles"
                    displayName="Source Files"
                    projectFiles="true">
-      <itemPath>check.cpp</itemPath>
-      <itemPath>long_num.cpp</itemPath>
       <itemPath>main.cpp</itemPath>
     </logicalFolder>
     <logicalFolder name="TestFiles"
@@ -45,30 +41,16 @@
         <linkerTool>
           <linkerDynSerch>
             <pElem>.</pElem>
-            <pElem>.</pElem>
-            <pElem>.</pElem>
-            <pElem>.</pElem>
           </linkerDynSerch>
         </linkerTool>
       </compileType>
-      <item path="check.cpp" ex="false" tool="1" flavor2="0">
-      </item>
-      <item path="check.h" ex="false" tool="3" flavor2="0">
-      </item>
       <folder path="TestFiles">
         <linkerTool>
           <linkerDynSerch>
             <pElem>.</pElem>
-            <pElem>.</pElem>
-            <pElem>.</pElem>
-            <pElem>.</pElem>
           </linkerDynSerch>
         </linkerTool>
       </folder>
-      <item path="long_num.cpp" ex="false" tool="1" flavor2="0">
-      </item>
-      <item path="long_num.h" ex="false" tool="3" flavor2="0">
-      </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
     </conf>
@@ -95,30 +77,16 @@
         <linkerTool>
           <linkerDynSerch>
             <pElem>.</pElem>
-            <pElem>.</pElem>
-            <pElem>.</pElem>
-            <pElem>.</pElem>
           </linkerDynSerch>
         </linkerTool>
       </compileType>
-      <item path="check.cpp" ex="false" tool="1" flavor2="0">
-      </item>
-      <item path="check.h" ex="false" tool="3" flavor2="0">
-      </item>
       <folder path="TestFiles">
         <linkerTool>
           <linkerDynSerch>
             <pElem>.</pElem>
-            <pElem>.</pElem>
-            <pElem>.</pElem>
-            <pElem>.</pElem>
           </linkerDynSerch>
         </linkerTool>
       </folder>
-      <item path="long_num.cpp" ex="false" tool="1" flavor2="0">
-      </item>
-      <item path="long_num.h" ex="false" tool="3" flavor2="0">
-      </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
     </conf>
